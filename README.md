@@ -8,4 +8,4 @@ project's app name = blog
 4. then created views and templates for the app blog
 5. then created corresponding url link for the views and templates
 6. and created form for editing and updating
-7. 
+7.add styling for the templates
