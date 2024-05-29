@@ -1,3 +1,4 @@
+#All content is push to the Master branch
 # BlogProject
 Final Exam project for Python in Diploma Course..
 project name = BlogProject
